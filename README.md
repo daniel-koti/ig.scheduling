@@ -10,9 +10,7 @@ Schedule your activities for the day and stay organized.
   <img alt="Scheduling app" src=".github/pic5.png" />
 </h1>
 
-# Features
-- Social Authentication (Google)
-- Connection with google calendar
+
 
 
 
