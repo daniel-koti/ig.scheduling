@@ -12,7 +12,7 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse,
 ) {
-  if (req.method !== 'PUT') {
+  if (req.method !== 'put') {
     return res.status(405).end()
   }
 
