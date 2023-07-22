@@ -12,10 +12,6 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse,
 ) {
-  if (req.method !== 'put') {
-    return res.status(405).end()
-  }
-
   const session = await getServerSession(
     req,
     res,

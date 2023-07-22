@@ -9,10 +9,6 @@ export default async function handle(
   req: NextApiRequest,
   res: NextApiResponse,
 ) {
-  if (req.method !== 'post') {
-    return res.status(405).end()
-  }
-
   const username = String(req.query.username)
 
   const user = await prisma.user.findUnique({
