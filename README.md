@@ -4,12 +4,17 @@ Schedule your activities for the day and stay organized.
 
 <h1 align="center">
   <img alt="Scheduling app" src=".github/pic1.png" />
-  <img alt="Scheduling app" src=".github/pic2.png" />
-  <img alt="Scheduling app" src=".github/pic3.png" />
-  <img alt="Scheduling app" src=".github/pic4.png" />
-  <img alt="Scheduling app" src=".github/pic5.png" />
 </h1>
 
+## About this Project.
+The idea of the App is:
+
+Connect your calendars, reads your availability from all your existing calendars ensuring you never get double booked!
+
+## Functionalities
+
+ - Social authentication with google account
+ - View appointments via google calendar
 
 
 
